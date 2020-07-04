@@ -13,6 +13,6 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MSAL",
-            parth: "artifacts/MSAL.xcframework.zip")
+            path: "artifacts/MSAL.xcframework.zip")
     ]
 )
